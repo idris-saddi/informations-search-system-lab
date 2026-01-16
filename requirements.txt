@@ -1,0 +1,7 @@
+numpy>=1.21
+
+# Optional: for Gemini LLM-as-a-judge
+google-genai>=0.6
+
+# Optional: for Groq LLM-as-a-judge
+groq>=0.11

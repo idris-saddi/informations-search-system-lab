@@ -51,6 +51,12 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Local secrets
+.env
+
+# Generated reports
+reports/
+
 # Translations
 *.mo
 *.pot
